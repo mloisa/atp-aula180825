@@ -1,5 +1,3 @@
-# atp-aula180825
-Respostas: 
 // Questão 1
 //double nota1, nota2, mediap;
 //Console.WriteLine("Informe as duas notas: ");
@@ -35,4 +33,15 @@ Respostas:
 //sfuncionario = double.Parse(Console.ReadLine());
 //result = sfuncionario/sminimo;
 //Console.WriteLine("\nO seu salário equivale a {0:F2} salários mínimos.", result);
+
+//Questão 6
+//int ang1, ang2, soma, ang3;
+//Console.WriteLine("\nPor favor, informe o valor de ambos os ângulos do triângulo:");
+//ang1 = int.Parse(Console.ReadLine());
+//ang2 = int.Parse(Console.ReadLine());
+//soma = ang1 + ang2;
+//ang3 = 180-soma;
+//Console.WriteLine("\n O terceiro ângulo é: "+ ang3);
+
+//Questão 7
 
